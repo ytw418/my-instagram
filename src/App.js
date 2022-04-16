@@ -1,6 +1,5 @@
 import './App.css';
 import React from 'react';
-import styled from 'styled-components';
 import BottomTeb from './components/BottomTeb';
 import { createGlobalStyle } from 'styled-components';
 import MainBlock from './components/MainBlock';
